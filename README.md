@@ -19,7 +19,7 @@ Construir um banco de dados funcional que gerencie:
 
 * `criar_banco.sql`: Criação do banco de dados e das tabelas
 * `inserir.sql`: Inserção de dados fictícios para simular a operação da loja
-* `consulta.sql`: Consulta das contas registradas com informações do cliente
+* `consulta.sql`: Consulta das contas registradas com informações do cliente 
 
 ## 🔍 O que foi aplicado
 
