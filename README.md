@@ -1,6 +1,6 @@
 # 🛍️ Sistema de Loja Fictícia (MySQL)
 
-Este projeto foi desenvolvido como parte das atividades práticas da disciplina **Programação e Desenvolvimento de Banco de Dados**. Ele simula um sistema de banco de dados para uma loja fictícia, com foco em estrutura relacional, manipulação de dados e consultas SQL.
+Este projeto foi desenvolvido como parte das atividades práticas da disciplina **Programação e Desenvolvimento de Banco de Dados**. Ele simula um sistema de banco de dados para uma loja fictícia, com foco em estrutura relacional, manipulação de dados e consultas SQL. 
 
 ## 💡 Objetivo
 
@@ -17,7 +17,7 @@ Construir um banco de dados funcional que gerencie:
 
 ## 📁 Estrutura dos Arquivos
 
-* `criar_banco.sql`: Criação do banco de dados e das tabelas
+* `criar_table.sql`: Criação do banco de dados e das tabelas
 * `inserir.sql`: Inserção de dados fictícios para simular a operação da loja
 * `consulta.sql`: Consulta das contas registradas com informações do cliente 
 
